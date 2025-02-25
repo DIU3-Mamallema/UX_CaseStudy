@@ -1,11 +1,13 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y Artesanía (handcraft) ) 
+
+link figma: https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU3_Mamallema.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 25/02/2025
 
 Proyecto: 
 
