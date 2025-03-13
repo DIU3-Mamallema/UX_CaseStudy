@@ -7,7 +7,7 @@ link figma: https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB
 
 Grupo: DIU3_Mamallema.  Curso: 2024/25 
 
-Actualizado: 25/02/2025
+Actualizado: 13/03/2025
 
 Proyecto: 
 
@@ -23,7 +23,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Marco Vega Velicia     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Marcos Gómez Morena     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
