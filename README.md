@@ -61,18 +61,27 @@ Miembros:
 -----
   En nuestro caso hemos elaborado dos perfiles de usuarios totalmente diferentes que podrían estar interesados en la página web.
   Añadir aqui la descripción de Lucas Navarro: (borrar este linea)
+
+  ####Lucas 
 ![Imagen de persona Lucas Navarro](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Lucas%20Navarro.png)
 
  En segundo lugar, un abuelo de elevada edad procedente de Inglaterra, el cual tras la muerte de su esposa decide vivir en España. Amante del todo tipo de arte desde pequeño, dibujo, artesania, literatura, etc. Llega a Granada puesto que es un de los lugares de españa más relacionados con el arte y la artesania al igual que la literatura. Con la intención de poder vivir experiencias nuevas, y poder cuidar de sus nietos que también residen aqui con su familia.
 
-  ## Dickson
+  #### Dickson
 ![Imagen de persona Dickson Mayas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Dickson%20Mayas.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+ Para cada una de las personas hemos elaborado dos Journey Maps distintos adaptándonos una posible experíencia que podrían vivir. En el caso de Dickson, el proceso va desde que se aburre y decide buscar nuevas actividades a realizar, después hace una pequeña investigación sobre lo que ofrecen el la página, considera si apuntarse y acaba aciendolo y asisitendo a los cursos. Y en el caso de Lucas, se interesa al igual que Dickson en aprender artesanía, aunque por diferentes motivos, como tiene un mayor conocimiento de las tecnologías hace comparación con otras páginas, y finalmente decide que es la indicada, realiza los cursos via online, y le gustaría poder compartir sus trabajos y avances al igual que su opinión.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+ Ambos perfiles podrían ser relativamente comunes. En primer lugar tendríamos a alguien jubilado que dispone de tiempo y quiere entretenerse aprendiendo nuevas habilidades, en el otro caso, alguien joven con la intención de adquirir nuevos conocimientos relacionados con lo que le gusta, para ir mejorando su experiencia.
+ 
+#### Lucas
+![Imagen de journey Lucas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/98ff8256ad7389df22ddeb7e7f15dcdffa1a43a5/P1/User%20Journey%20Map%20%23Lucas.png)
+
+#### Dickson
+![Imagen de journey Dickson](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/98ff8256ad7389df22ddeb7e7f15dcdffa1a43a5/P1/User%20Journey%20Map%20%23Dickson.png)
 
 
 ### 1.e Usability Review
