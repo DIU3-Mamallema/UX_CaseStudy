@@ -52,17 +52,17 @@ Miembros:
 
  Para hacer el analisis competitivo la hemos comparado con otras dos páginas web, una de ellas de una temática similar, relacionada con la elaboración de cursos de cerámica que es por donde queresmos implementar las mejoras de Kerarqueo. Y otra más centrada en cursos en general, la cual es la que mejor esta diseñada, para tener una comparativa con un producto muy perfeccionado.
 
-![Imagen del analisis competitivo realizada en figma](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/master/Competitor%20Analysis%20%5BDIU3.Mamallema%5D.png?raw=true)
+![Imagen del analisis competitivo realizada en figma](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/35e514a92cf4cc3d36c7305fa29bdd08032ddad5/P1/Competitor%20Analysis%20%5BDIU3.Mamallema%5D.png)
 
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-  En nuestro caso hemos elaborado dos perfiles de usuarios totalmente diferentes que podrían estar interesados en la página web.
+   En nuestro caso hemos elaborado dos perfiles de usuarios totalmente diferentes que podrían estar interesados en la página web.
   Añadir aqui la descripción de Lucas Navarro: (borrar este linea)
 
-  ####Lucas 
+  #### Lucas 
 ![Imagen de persona Lucas Navarro](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Lucas%20Navarro.png)
 
  En segundo lugar, un abuelo de elevada edad procedente de Inglaterra, el cual tras la muerte de su esposa decide vivir en España. Amante del todo tipo de arte desde pequeño, dibujo, artesania, literatura, etc. Llega a Granada puesto que es un de los lugares de españa más relacionados con el arte y la artesania al igual que la literatura. Con la intención de poder vivir experiencias nuevas, y poder cuidar de sus nietos que también residen aqui con su familia.
