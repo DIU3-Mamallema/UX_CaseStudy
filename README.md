@@ -1,7 +1,7 @@
 # DIU25
 Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y Artesanía (handcraft) ) 
 
-link figma: https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB
+link figma: [https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB](https://www.figma.com/files/team/1476277072790931362/all-projects?fuid=1476274180775213809)
 
 [Guiones de prácticas](GuionesPracticas/)
 
@@ -22,10 +22,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Marco Vega Velicia     :octocat:     
- * :bust_in_silhouette:  Marcos Gómez Morena     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  Marco Vega Velicia     :octocat:     https://github.com/ChemaCrema
+ * :bust_in_silhouette:  Marcos Gómez Morena     :octocat:    https://github.com/marcovegabcb
 
 ----- 
 
@@ -39,8 +37,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -51,9 +47,13 @@ Miembros:
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
------
+----- 
+ Hemos elegido Kerarqueo después de compararla con las otras páginas, ya que era un tema del que no teníamos mucho conocimiento, lo que nos saca de nuestra zona de confort que es algo que probablemente ocurra amenudo al trabajar para una empresa. También es la página que más se puede mejorar porque cumple con lo básico, pero no hay nada especialmente bien desarrolado.
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+ Para hacer el analisis competitivo la hemos comparado con otras dos páginas web, una de ellas de una temática similar, relacionada con la elaboración de cursos de cerámica que es por donde queresmos implementar las mejoras de Kerarqueo. Y otra más centrada en cursos en general, la cual es la que mejor esta diseñada, para tener una comparativa con un producto muy perfeccionado.
+
+![Imagen del analisis competitivo realizada en figma](<img width="5864" alt="Competitor Analysis  DIU3 Mamallema" src="https://github.com/user-attachments/assets/b31ea649-c48e-4e05-abad-143b5cc2944e" />)
+
 
 
 ### 1.c Personas
@@ -61,7 +61,6 @@ Miembros:
 -----
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
@@ -84,6 +83,7 @@ Miembros:
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+<img width="5864" alt="Competitor Analysis  DIU3 Mamallema" src="https://github.com/user-attachments/assets/f3636694-d334-4135-9aea-81531d1dbdcb" />
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
