@@ -52,7 +52,7 @@ Miembros:
 
  Para hacer el analisis competitivo la hemos comparado con otras dos páginas web, una de ellas de una temática similar, relacionada con la elaboración de cursos de cerámica que es por donde queresmos implementar las mejoras de Kerarqueo. Y otra más centrada en cursos en general, la cual es la que mejor esta diseñada, para tener una comparativa con un producto muy perfeccionado.
 
-![Imagen del analisis competitivo realizada en figma](<img width="5864" alt="Competitor Analysis  DIU3 Mamallema" src="https://github.com/user-attachments/assets/b31ea649-c48e-4e05-abad-143b5cc2944e" />)
+![Imagen del analisis competitivo realizada en figma]([<img width="5864" alt="Competitor Analysis  DIU3 Mamallema" src="https://github.com/user-attachments/assets/b31ea649-c48e-4e05-abad-143b5cc2944e" />](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/053d8b49daed2da009a869ded77829b6706c1324/Competitor%20Analysis%20%5BDIU3.Mamallema%5D.png))
 
 
 
