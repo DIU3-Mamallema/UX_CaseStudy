@@ -93,11 +93,26 @@ Lucas está buscando nuevas oportunidades para mejorar sus habilidades y ampliar
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+El sitio tiene un enfoque atractivo y contenido de valor, aúnque hay bastantes oportunidades de mejora en términos de navegación, interacción y soporte al usuario. 
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Este documento contiene la revisión completa con puntuaciones y comentarios detallados que reflejan el estado actual de la usabilidad en Kerarqueo y las oportunidades de mejora que podrían optimizar la experiencia de usuario. Esto nos permitirá decidir en que campos centrarnos para poder mejorar el sitio web.
+
+>>> - Enlace al documento:  https://docs.google.com/spreadsheets/d/1H_VY1Mb8Bqtl20J6FwUHWhn-jJ6TcnOrtxLCdb3UKL0/edit?usp=sharing 
+>>> - URL y Valoración numérica obtenida: 54/100
+>>> - Comentario sobre la revisión:
+>>> - En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave que influyen en la experiencia de usuario:
+
+✅ Aspectos Positivos:
+
+-Diseño limpio y estructurado con una navegación clara.
+-Buen rendimiento y compatibilidad con distintos dispositivos.
+-Contenido relevante alineado con la temática de cerámica y arqueología.
+
+⚠️ Posibles áreas de Mejora:
+
+-Falta de búsqueda y filtros: Se podría mejorar para facilitar la exploración de cursos y productos.
+-Escasez de feedback y soporte: No hay mensajes de error claros ni una sección de ayuda.
+-Poca interacción en cursos: No existen herramientas para que los usuarios reciban retroalimentación sobre su aprendizaje.
 
 <br>
 
