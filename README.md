@@ -97,22 +97,27 @@ El sitio tiene un enfoque atractivo y contenido de valor, aúnque hay bastantes 
 
 Este documento contiene la revisión completa con puntuaciones y comentarios detallados que reflejan el estado actual de la usabilidad en Kerarqueo y las oportunidades de mejora que podrían optimizar la experiencia de usuario. Esto nos permitirá decidir en que campos centrarnos para poder mejorar el sitio web.
 
->>> - Enlace al documento:  https://docs.google.com/spreadsheets/d/1H_VY1Mb8Bqtl20J6FwUHWhn-jJ6TcnOrtxLCdb3UKL0/edit?usp=sharing 
->>> - URL y Valoración numérica obtenida: 54/100
->>> - Comentario sobre la revisión:
->>> - En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave que influyen en la experiencia de usuario:
+- Enlace al documento:  https://docs.google.com/spreadsheets/d/1H_VY1Mb8Bqtl20J6FwUHWhn-jJ6TcnOrtxLCdb3UKL0/edit?usp=sharing 
+- URL y Valoración numérica obtenida: 54/100
+- Comentario sobre la revisión:
+
+En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave que influyen en la experiencia de usuario:
 
 ✅ Aspectos Positivos:
 
--Diseño limpio y estructurado con una navegación clara.
--Buen rendimiento y compatibilidad con distintos dispositivos.
--Contenido relevante alineado con la temática de cerámica y arqueología.
+   -Diseño limpio y estructurado con una navegación clara.
+   
+   -Buen rendimiento y compatibilidad con distintos dispositivos.
+
+   -Contenido relevante alineado con la temática de cerámica y arqueología.
 
 ⚠️ Posibles áreas de Mejora:
 
--Falta de búsqueda y filtros: Se podría mejorar para facilitar la exploración de cursos y productos.
--Escasez de feedback y soporte: No hay mensajes de error claros ni una sección de ayuda.
--Poca interacción en cursos: No existen herramientas para que los usuarios reciban retroalimentación sobre su aprendizaje.
+   -Falta de búsqueda y filtros: Se podría mejorar para facilitar la exploración de cursos y productos.
+   
+   -Escasez de feedback y soporte: No hay mensajes de error claros ni una sección de ayuda.
+   
+   -Poca interacción en cursos: No existen herramientas para que los usuarios reciban retroalimentación sobre su aprendizaje.
 
 <br>
 
