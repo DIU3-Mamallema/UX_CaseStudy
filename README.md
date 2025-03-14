@@ -22,8 +22,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Marco Vega Velicia     :octocat:     https://github.com/ChemaCrema
- * :bust_in_silhouette:  Marcos Gómez Morena     :octocat:    https://github.com/marcovegabcb
+ * :bust_in_silhouette:  Marco Vega Velicia     :octocat:    https://github.com/marcovegabcb 
+ * :bust_in_silhouette:  Marcos Gómez Morena    :octocat:    https://github.com/ChemaCrema
 
 ----- 
 
@@ -61,7 +61,12 @@ Miembros:
 ![Método UX](img/Persona.png) 
 -----
    En nuestro caso hemos elaborado dos perfiles de usuarios totalmente diferentes que podrían estar interesados en la página web.
-  Añadir aqui la descripción de Lucas Navarro: (borrar este linea)
+   
+   La primera persona es Lucas Navarro, un joven de 23 años nacido en Granada, es un apasionado del diseño y la artesanía. Desde pequeño ha sentido una fuerte atracción por el arte, especialmente el dibujo y la creación manual, lo que lo llevó a estudiar Diseño y Artes Visuales. Con una mentalidad innovadora, busca combinar la tradición con la tecnología, explorando la fusión entre la cerámica artesanal y el diseño digital.
+
+Curioso y autodidacta, se interesa por plataformas de aprendizaje en línea y el uso de herramientas digitales que le permitan desarrollar su creatividad. En su tiempo libre, disfruta de la música, los videojuegos y la construcción de modelos creativos, buscando siempre nuevas formas de experimentar con el arte.
+
+Lucas está buscando nuevas oportunidades para mejorar sus habilidades y ampliar su portafolio, con la intención de aplicar sus conocimientos en proyectos innovadores dentro del mundo del diseño y la artesanía.
 
   #### Lucas 
 ![Imagen de persona Lucas Navarro](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Lucas%20Navarro.png)
@@ -76,7 +81,7 @@ Miembros:
 ----
  Para cada una de las personas hemos elaborado dos Journey Maps distintos adaptándonos una posible experíencia que podrían vivir. En el caso de Dickson, el proceso va desde que se aburre y decide buscar nuevas actividades a realizar, después hace una pequeña investigación sobre lo que ofrecen el la página, considera si apuntarse y acaba aciendolo y asisitendo a los cursos. Y en el caso de Lucas, se interesa al igual que Dickson en aprender artesanía, aunque por diferentes motivos, como tiene un mayor conocimiento de las tecnologías hace comparación con otras páginas, y finalmente decide que es la indicada, realiza los cursos via online, y le gustaría poder compartir sus trabajos y avances al igual que su opinión.
 
- Ambos perfiles podrían ser relativamente comunes. En primer lugar tendríamos a alguien jubilado que dispone de tiempo y quiere entretenerse aprendiendo nuevas habilidades, en el otro caso, alguien joven con la intención de adquirir nuevos conocimientos relacionados con lo que le gusta, para ir mejorando su experiencia.
+ Ambos perfiles podrían ser relativamente comunes. En primer lugar tendríamos a alguien jubilado que dispone de tiempo y quiere entretenerse aprendiendo nuevas habilidades, en el otro caso, alguien joven con la intención de adquirir nuevos conocimientos relacionados con su pasión además de destacarse en su trabajo.
  
 #### Lucas
 ![Imagen de journey Lucas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/98ff8256ad7389df22ddeb7e7f15dcdffa1a43a5/P1/User%20Journey%20Map%20%23Lucas.png)
