@@ -83,7 +83,6 @@ Miembros:
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-<img width="5864" alt="Competitor Analysis  DIU3 Mamallema" src="https://github.com/user-attachments/assets/f3636694-d334-4135-9aea-81531d1dbdcb" />
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
