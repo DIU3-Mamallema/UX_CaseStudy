@@ -42,8 +42,9 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+ Viendo el diseño de la página web y el enfoque que le han dado las creadoras, hemos decidido que sería una buena idea centrarnos en mejorar la divulgación del tema de la artesanía, el arte y la arqueología mediante la mejora del apartado de los cursos, para poder acercar más al público general. Esto lo realizaríamos añadiendo un mayor número de cursos, con una mayor diversidad de temas y agrupados en secciones y niveles de conocimiento. Para aumentar el rango de alcance implementaremos cursos tanto presenciales como en línea, al igual que videos para la divulgación de los distintos temas de interés. También facilitaremos el pago y reserva de cursos desde la página web sin necesidad de contactar con las organizadoras. Para orientar la página en la dirección correcta añadiríamos valoraciones y formas de comunicación con los usuarios para saber en que estan más interesados o mejorarían.
 
+ Aunque no disponemos de experiencia en el ámbito de la cerámica, sí que tenemos experiencia en páginas dedicadas a la divulgación de distintos temas, como por ejemplo Udemy relacionada con la informática, fit generation relacionada con el deporte. También con el uso de páginas mundialmente conocidas de contenido audiovisual como puede ser Youtube o Twitch.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
@@ -52,7 +53,7 @@ Miembros:
 
  Para hacer el analisis competitivo la hemos comparado con otras dos páginas web, una de ellas de una temática similar, relacionada con la elaboración de cursos de cerámica que es por donde queresmos implementar las mejoras de Kerarqueo. Y otra más centrada en cursos en general, la cual es la que mejor esta diseñada, para tener una comparativa con un producto muy perfeccionado.
 
-![Imagen del analisis competitivo realizada en figma](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/35e514a92cf4cc3d36c7305fa29bdd08032ddad5/P1/Competitor%20Analysis%20%5BDIU3.Mamallema%5D.png)
+![Imagen del analisis competitivo realizada en figma](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/a516a5be0798d2d97a788e2285a243376a974d41/P1/Competitor%20Analysis%20%5BDIU3.Mamallema%5D.png)
 
 
 
