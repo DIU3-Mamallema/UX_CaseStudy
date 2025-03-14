@@ -59,12 +59,13 @@ Miembros:
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
->>> Añadir aqui la descripción de Lucas Navarro: (borrar este linea)
+  En nuestro caso hemos elaborado dos perfiles de usuarios totalmente diferentes que podrían estar interesados en la página web.
+  Añadir aqui la descripción de Lucas Navarro: (borrar este linea)
 ![Imagen de persona Lucas Navarro](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Lucas%20Navarro.png)
->>>
->>> Añadir aqui la descripción de Dickson Mayas:
+
+ En segundo lugar, un abuelo de elevada edad procedente de Inglaterra, el cual tras la muerte de su esposa decide vivir en España. Amante del todo tipo de arte desde pequeño, dibujo, artesania, literatura, etc. Llega a Granada puesto que es un de los lugares de españa más relacionados con el arte y la artesania al igual que la literatura. Con la intención de poder vivir experiencias nuevas, y poder cuidar de sus nietos que también residen aqui con su familia.
+
+  ## Dickson
 ![Imagen de persona Dickson Mayas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Dickson%20Mayas.png)
 
 ### 1.d User Journey Map
