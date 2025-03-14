@@ -60,7 +60,12 @@ Miembros:
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+>>> Añadir aqui la descripción de Lucas Navarro: (borrar este linea)
+![Imagen de persona Lucas Navarro](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Lucas%20Navarro.png)
+>>>
+>>> Añadir aqui la descripción de Dickson Mayas:
+![Imagen de persona Dickson Mayas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/9206ff3a87887d46bedabd2ef9212802e3295e8c/P1/Dickson%20Mayas.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
