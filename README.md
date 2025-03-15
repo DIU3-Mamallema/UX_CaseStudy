@@ -49,9 +49,9 @@ Miembros:
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 ----- 
- Hemos elegido Kerarqueo después de compararla con las otras páginas, ya que era un tema del que no teníamos mucho conocimiento, lo que nos saca de nuestra zona de confort que es algo que probablemente ocurra amenudo al trabajar para una empresa. También es la página que más se puede mejorar porque cumple con lo básico, pero no hay nada especialmente bien desarrolado.
+ Hemos elegido Kerarqueo después de compararla con las otras páginas, ya que era un tema del que no teníamos mucho conocimiento, lo que nos saca de nuestra zona de confort que es algo que probablemente ocurra amenudo al trabajar para una empresa. También es la página que más se puede mejorar porque cumple con lo básico, pero no hay nada especialmente bien desarrollado.
 
- Para hacer el analisis competitivo la hemos comparado con otras dos páginas web, una de ellas de una temática similar, relacionada con la elaboración de cursos de cerámica que es por donde queresmos implementar las mejoras de Kerarqueo. Y otra más centrada en cursos en general, la cual es la que mejor esta diseñada, para tener una comparativa con un producto muy perfeccionado.
+ Para hacer el analisis competitivo la hemos comparado con otras dos páginas web, una de ellas de una temática similar, relacionada con la elaboración de cursos de cerámica que es por donde queremos implementar las mejoras de Kerarqueo. Y otra más centrada en cursos en general, la cual es la que mejor está diseñada, para tener una comparativa con un producto muy perfeccionado.
 
 ![Imagen del analisis competitivo realizada en figma](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/a516a5be0798d2d97a788e2285a243376a974d41/P1/Competitor%20Analysis%20%5BDIU3.Mamallema%5D.png)
 
