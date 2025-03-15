@@ -16,9 +16,8 @@
     - Usability review excel: [Usability review en excel](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/8822a86507e69c83dddee6af1356cc1f9b1c744e/P1/USABILITY%20REVIEW%20%5BDIU3.Mamallema%5D.xlsx)
 
 - Conclusiones:
-    - conclusiones pdf:
-    - conclusiones word:  
+    - conclusiones pdf: [Conclusiones de la practica y resumen pdf](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/c8f9091e1a2496578af4427137de1365b327ffe0/P1/Conclusiones%20Practica%201%20DIU%20pdf.pdf)
+    - conclusiones word: [Conclusiones de la practica y resumen word](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/c8f9091e1a2496578af4427137de1365b327ffe0/P1/Conclusiones%20Practica%201%20DIU.docx)
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+-Valoracion Final:
+    Hemos realizado la práctica de forma existosa, la cuál no a enseñado a hacer un analisis completo previo a la mejora o diseño de una web.
