@@ -9,9 +9,7 @@ Grupo: DIU3_Mamallema.  Curso: 2024/25
 
 Actualizado: 13/03/2025
 
-Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: **Kararqueo Educa** 
 
 Descripción: 
 
@@ -103,7 +101,7 @@ Este documento contiene la revisión completa con puntuaciones y comentarios det
 
 En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave que influyen en la experiencia de usuario:
 
-✅ Aspectos Positivos:
+Aspectos Positivos:
 
    -Diseño limpio y estructurado con una navegación clara.
    
@@ -111,7 +109,7 @@ En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave qu
 
    -Contenido relevante alineado con la temática de cerámica y arqueología.
 
-⚠️ Posibles áreas de Mejora:
+Posibles áreas de Mejora:
 
    -Falta de búsqueda y filtros: Se podría mejorar para facilitar la exploración de cursos y productos.
    
@@ -128,25 +126,111 @@ En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave qu
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+![image](https://github.com/user-attachments/assets/66e5b8cf-b5a0-420c-9369-e16ad73b39db)
+![image](https://github.com/user-attachments/assets/57820ce5-be55-4dac-80e0-fa7f3b958993)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+#### Resumen y conclusión de la práctica anterior
 
+A partir del análisis de la web de **Kerarqueo** y del desarrollo de mapas de empatía centrados en nuestros usuarios (Lucas Navarro y Dickson Mayas), destacamos lo siguiente:
+
+##### Interesante
+- Buen rendimiento técnico y compatibilidad con dispositivos.
+- Navegación intuitiva y acceso claro a secciones.
+- Contenido relevante en relación con la temática de cerámica y artesanía.
+
+##### Críticas
+- Apartado de búsqueda y filtros inexistente o poco funcional.
+- Falta de feedback durante los cursos.
+- Diseño visual poco atractivo y mensajes de error poco útiles.
+- Escasa interacción entre usuarios o espacios comunitarios.
+
+##### Preguntas
+- ¿Cómo sé si avanzo correctamente en el curso?
+- ¿Dónde consigo los materiales para practicar?
+- ¿Qué puedo hacer con mi pieza una vez terminada?
+- ¿Cómo soluciono dudas durante el curso?
+
+##### Nuevas ideas
+- Añadir sistema de proyectos finales que puedan ser votados.
+- Crear comunidad interna para compartir dudas y feedback.
+- Permitir a los ganadores vender sus piezas en la web.
+- Incluir materiales interactivos y acompañamiento personalizado.
+- Facilitar el registro y la personalización del perfil.
+
+---
+
+#### Problema detectado
+
+Las plataformas de formación artesanal actuales, incluida Kerarqueo, no explotan todo el potencial del aprendizaje práctico. Los usuarios carecen de orientación durante el curso, de apoyo técnico, y no encuentran espacios para compartir ni visibilizar sus resultados.
+
+---
+
+#### Hipótesis / Propuesta de Valor
+
+Si se crea una experiencia de aprendizaje más completa, conectada con la práctica real, la interacción social y el reconocimiento, los usuarios no solo aprenderán mejor, sino que también se sentirán más motivados, comprometidos y dispuestos a continuar formándose.
+
+**Nuestra propuesta:**  
+Al terminar cada curso, el alumno podrá subir un proyecto final. Este será votado por otros alumnos y profesores. El proyecto más valorado se destacará en la web y podrá ser vendido a través de Kerarqueo por tiempo limitado. Así, la plataforma se convierte en un espacio de aprendizaje, visibilidad y proyección para nuevos artesanos.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
+![image](https://github.com/user-attachments/assets/cbdbc656-c0bf-4e95-ab88-18be5d4d383c)
+
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+El siguiente ScopeCanvas resume la propuesta de valor de nuestro proyecto **“Kerarqueo Educa”**, orientado a mejorar la experiencia formativa en cerámica artesanal a través de una plataforma más accesible, práctica y conectada con la realidad creativa de los usuarios.
+
+---
+
+#### Usuario – Necesidades
+- Oportunidades de mostrar y compartir lo que crean.
+- Cursos prácticos, accesibles y bien estructurados.
+- Mayor conexión entre lo aprendido y su aplicación real.
+- Una plataforma intuitiva, especialmente para personas con poca experiencia digital.
+- Sentirse parte de una comunidad creativa.
+
+---
+
+#### Propósito del Proyecto
+- Implementar un apartado para que los usuarios puedan **vender sus obras** como forma de impulsar la creatividad, la autoexpresión y el inicio de su carrera como artistas.
+- Crear una plataforma de aprendizaje de cerámica artesanal para **todos los niveles**, combinando tradición y tecnología.
+
+---
+
+#### Acciones esperadas
+- Inscribirse y completar un curso online.
+- Participar en la presentación de un proyecto o prototipo final.
+- Votar proyectos de otros compañeros y aportar feedback.
+- Compartir su experiencia o resultados en la comunidad.
+
+---
+
+#### Organización – Objetivos
+
+**A corto plazo:**
+- Mejorar la experiencia de usuario en la plataforma.
+- Activar dinámicas de comunidad (votaciones, feedback).
+- Mejorar la estética visual de la web.
+
+**A largo plazo:**
+- Aumentar la visibilidad del contenido generado por los alumnos.
+- Incrementar la participación en cursos online de Kerarqueo.
+- Aumentar la comunidad de personas que disfrutan de la cerámica artesanal.
+
+---
+
+#### 📊 Métricas para medir el éxito
+- Número de inscripciones y porcentaje de cursos finalizados.
+- Cantidad de proyectos presentados.
+- Tiempo medio de permanencia en la plataforma.
+- Porcentaje de participación en las votaciones.
+- Aumento de ventas derivadas de proyectos de alumnos destacados.
+
+---
+
+Este ScopeCanvas se complementa con nuestra hipótesis y propuesta de valor: crear una experiencia formativa que no solo enseñe cerámica, sino que **permita al usuario desarrollarse como creador**, permitiéndole mostrar, compartir y vender su trabajo desde una plataforma adaptada, intuitiva y conectada con la comunidad.
 
 
 
