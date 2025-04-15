@@ -1,27 +1,20 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
+* Malla receptora de información: [Feedback grid](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/Feedback%20Grid%20DIU3.Mamallema.png)
+* Mapa de empatía: [Empathy map](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/Empathy%20Customer%20Map%20DIU3.Mamallema.png)
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
-
+* ScopeCanvas: [Link scope canvas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/Scope%20Canvas%20(DIU3.Mamallema).png)
 
 ### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
-
-
+* User/Task flow(inscribirse): [inscribirse curso](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/User%20Flow(Inscribirse%20curso).png)
+* User/Task flow(votar/consultar): [votar/consultar proyecto](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/User%20Flow(valorar%20proyectos).png)
+  
 ### ARQUITECTURA DE INFORMACIÓN
-
 * Sitemap 
-* Labelling 
-
-
+* Labelling
+  
 ### Prototipo Lo-FI Wireframe 
 
 
