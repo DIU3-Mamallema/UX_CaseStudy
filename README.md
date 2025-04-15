@@ -5,21 +5,20 @@ link figma: [https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB](ht
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIU3_Mamallema.  Curso: 2024/25 
+**Grupo:** DIU3_Mamallema.  Curso: 2024/25 
 
 Actualizado:30/03/2025
 
-Proyecto: **Kararqueo Educa** 
+**Proyecto:** Kararqueo Educa 
 
-Descripción: 
+**Descripción:** Kararqueo Educa es una plataforma digital centrada en la enseñanza de la cerámica artesanal y el diseño creativo. Su objetivo es ofrecer cursos online accesibles para todos los niveles, fomentando el aprendizaje práctico y la participación activa mediante proyectos finales que pueden ser valorados por la comunidad. Además, se promueve la visibilidad del talento emergente permitiendo que los alumnos destacados vendan sus creaciones en la web.
 
->>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: 
+**Logotipo:** 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
-Miembros:
+**Miembros:**
  * :bust_in_silhouette:  Marco Vega Velicia     :octocat:    https://github.com/marcovegabcb 
  * :bust_in_silhouette:  Marcos Gómez Morena    :octocat:    https://github.com/ChemaCrema
 
@@ -267,9 +266,52 @@ A continuación, se muestra la tabla con los términos clave definidos para la n
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
------
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Para representar visualmente el diseño de las principales pantallas de la plataforma Kerarqueo, hemos realizado una serie de wireframes en Figma.
+
+Aunque se pedían de baja fidelidad, hemos ido un paso más allá y hemos mejorado los bocetos, estos están orientados al diseño web y siguen un enfoque **responsive**, adaptándose a diferentes dispositivos mediante el uso de **Auto Layout**, distribución en **Grid Layout** y organización jerárquica por **frames** header, body y footer. En nuestro caso todos comparten el header y el footer, ya que ha aporta coherencia y estética al sitio web.
+
+Actualmente hemos desarrollado las siguientes vistas principales:
+
+- Página de proyectos, esta la hemos adaptado también para tamaño móvil y tablet
+- Página de exploración de cursos
+- Página de curso individual 
+- Página de votación de proyectos
+- Página de consulta de proyectos anteriores
+- Página de login y registro de usuario
+
+Estas pantallas incluyen elementos clave como el buscador, menús de ordenación y filtros, tarjetas de proyectos o cursos, botones de interacción (como "votar" o "ver más"), y una estructura de navegación clara y coherente en todas las vistas.
+
+
+## Herramienta utilizada
+
+Todos los wireframes se han realizado con la herramienta [Figma](https://www.figma.com), que permite diseñar interfaces de forma colaborativa y eficiente, integrando elementos visuales, diseño de interacción y pruebas para responsive design mediante plugins como **Breakpoint**.
+
+Además, los bocetos iniciales se elaboraron en papel para una primera validación rápida de ideas y disposición de los elementos.
+Aquí presentamos nuestros bocetos:
+
+Proyectos:
+
+![image](https://github.com/user-attachments/assets/4fd0cb34-dd61-4d0b-9ca2-cf977aab5be7)
+
+Cursos(desktop):
+![image](https://github.com/user-attachments/assets/d6e6bdea-743f-41de-bb94-8dba32ba1a8d)
+
+Cursos(móvil y tablet):
+![image](https://github.com/user-attachments/assets/dc644741-479d-447c-8b66-1755ea3f4316)
+
+Curso individual:
+![image](https://github.com/user-attachments/assets/df5a5197-a47a-4115-89b4-0c59fcf2c6ad)
+
+Votaciones:
+
+![image](https://github.com/user-attachments/assets/df36b632-2f16-470e-a7dc-054f815777f0)
+
+Consulta proyecto:
+![image](https://github.com/user-attachments/assets/c0ab63fb-08ab-4818-ac4b-fe4de5b23bec)
+
+
+
 
 <br>
 
