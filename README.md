@@ -242,14 +242,27 @@ Este ScopeCanvas se complementa con nuestra hipótesis y propuesta de valor: cre
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
+Para definir una navegación clara e intuitiva para los usuarios, hemos diseñado un **Sitemap** que refleja la arquitectura de la información del sitio web Kerarqueo. Este esquema permite visualizar cómo se estructuran las distintas secciones de la página y qué rutas de navegación se ofrecen al usuario.
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![image](https://github.com/user-attachments/assets/87a76b34-ee90-4d84-a5a3-3a5b29e506e4)
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+Además, hemos implementado tambien el **labelling**, es decir, los términos que se utilizarán en los menús y enlaces para evitar ambigüedades, relacionando conceptos de nuestra web con reales, fomentando una experiencia accesible para todo tipo de usuarios. En esta etapa también se ha tenido en cuenta el uso de iconos que acompañen a cada término para facilitar su reconocimiento visual.
+
+A continuación, se muestra la tabla con los términos clave definidos para la navegación del sitio web:
+
+| Término        | Significado                              | Icono sugerido         |
+|----------------|-------------------------------------------|-------------------------|
+| Inicio         | Página principal del sitio web            | 🏠               |
+| Quiénes somos  | Información sobre el proyecto y equipo    | 👥              |
+| Catálogo       | Acceso a obras y productos                | 🛍️        |
+| Cursos         | Acceso a los cursos online                | 🎓      |
+| Proyectos      | Proyectos realizados por estudiantes      | 🖌️           |
+| Votaciones     | Área para valorar proyectos               | 🗳️          |
+| Blog           | Artículos y noticias relacionadas         | ✍️         |
+| Contacto       | Formulario y datos de contacto            | 📧               |
+| Login          | Acceso a la plataforma                    | 🔐                |
+| Cuenta         | Perfil y configuración del usuario        | 👤       |
+| Carrito        | Elementos para comprar (si aplica)        | 🛒     |
 
 
 ### 2.d Wireframes
