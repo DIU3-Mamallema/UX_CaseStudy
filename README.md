@@ -7,7 +7,7 @@ link figma: [https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB](ht
 
 **Grupo:** DIU3_Mamallema.  Curso: 2024/25 
 
-Actualizado:30/03/2025
+Actualizado: 15/04/2025
 
 **Proyecto:** Kararqueo Educa 
 
