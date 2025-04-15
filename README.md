@@ -170,7 +170,7 @@ Al terminar cada curso, el alumno podrá subir un proyecto final. Este será vot
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 
-![scopecanvas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/User%20Flow(Inscribirse%20curso).png)
+![scopecanvas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/a1f84ea7137b93e7a5003b5d61a6ba1d2650d20a/P2/Scope%20Canvas%20(DIU3.Mamallema).png)
 
 ----
 
@@ -302,17 +302,14 @@ Proyectos:
 Cursos(desktop):
 ![Wireframe Cursos](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Desktop(Cursos).png)
 
-Cursos(tablet):
+Cursos(tablet y móvil):
 ![Wireframe tablet](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Tablet(Cursos)%20(1).png)
-
-Cursos(móvil):
 ![Wireframe movil](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Movil(Cursos).png)
 
 Curso individual:
 ![Wireframe curso](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Desktop(Curso%20individual).png)
 
 Votaciones:
-
 ![Wireframe votaciones](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/VOTACIONES%20V2.png)
 
 Consulta proyecto:
