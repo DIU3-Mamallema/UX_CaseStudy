@@ -235,9 +235,24 @@ Hemos realizado dos user flow, debido a que hemos tomado la decisión de dividir
 
 User flow incribirse en un curso:
 
+Tareas | Registrado | No registrado | Visitante
+Buscar cursos | H | M | L
+Consultar detalle del curso | H | H | M
+Iniciar sesión | H | - | -
+Registrarse | - | H | -
+Apuntarse al curso | H | - | -
+Pagar curso | H | - | -
+
 ![userflow incribirse](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/User%20Flow(Inscribirse%20curso).png)
 
 User flow valorar/consultar proyectos:
+
+Tareas | Participante | Usuario sin curso | Visitante
+Acceder al apartado "Proyectos" | H | H | H
+Elegir un proyecto | H | H | H
+Consultar votaciones | H | M | L
+Valorar un proyecto | H | - | -
+Ver valoraciones | H | M | L
 
 ![userflow valorar/consultar](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/User%20Flow(valorar%20proyectos).png)
 
