@@ -89,38 +89,32 @@ Lucas está buscando nuevas oportunidades para mejorar sus habilidades y ampliar
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
-----
-El sitio tiene un enfoque atractivo y contenido de valor, aúnque hay bastantes oportunidades de mejora en términos de navegación, interacción y soporte al usuario. 
+---
 
-Este documento contiene la revisión completa con puntuaciones y comentarios detallados que reflejan el estado actual de la usabilidad en Kerarqueo y las oportunidades de mejora que podrían optimizar la experiencia de usuario. Esto nos permitirá decidir en que campos centrarnos para poder mejorar el sitio web.
+El sitio tiene un enfoque atractivo y contenido de valor, aunque presenta diversas oportunidades de mejora en términos de navegación, interacción y soporte al usuario.
 
-- Enlace al documento:  https://docs.google.com/spreadsheets/d/1H_VY1Mb8Bqtl20J6FwUHWhn-jJ6TcnOrtxLCdb3UKL0/edit?usp=sharing 
-- URL y Valoración numérica obtenida: 54/100
-- Comentario sobre la revisión:
+Este documento contiene la revisión completa con puntuaciones y comentarios detallados que reflejan el estado actual de la usabilidad en **Kerarqueo**, así como las oportunidades de mejora que podrían optimizar la experiencia de usuario. Esto nos permitirá decidir en qué áreas centrarnos para mejorar el sitio web.
 
-En nuestro análisis del sitio web Kerarqueo, hemos identificado puntos clave que influyen en la experiencia de usuario:
+- **Enlace al documento:** [Revisión completa](https://docs.google.com/spreadsheets/d/1H_VY1Mb8Bqtl20J6FwUHWhn-jJ6TcnOrtxLCdb3UKL0/edit?usp=sharing)  
+- **Valoración obtenida:** 54/100
 
-Aspectos Positivos:
+#### Comentario sobre la revisión
 
-   -Diseño limpio y estructurado con una navegación clara.
-   
-   -Buen rendimiento y compatibilidad con distintos dispositivos.
+En nuestro análisis del sitio web **Kerarqueo**, hemos identificado puntos clave que influyen en la experiencia de usuario:
 
-   -Contenido relevante alineado con la temática de cerámica y arqueología.
+**Aspectos positivos:**
+- Diseño limpio y estructurado, con navegación clara.
+- Buen rendimiento y compatibilidad con distintos dispositivos.
+- Contenido relevante, alineado con la temática de cerámica y arqueología.
 
-Posibles áreas de Mejora:
-
-   -Falta de búsqueda y filtros: Se podría mejorar para facilitar la exploración de cursos y productos.
-   
-   -Escasez de feedback y soporte: No hay mensajes de error claros ni una sección de ayuda.
-   
-   -Poca interacción en cursos: No existen herramientas para que los usuarios reciban retroalimentación sobre su aprendizaje.
+**Áreas de mejora:**
+- Falta de búsqueda y filtros: se podrían implementar para facilitar la exploración de cursos y productos.
+- Escasez de feedback y soporte: no hay mensajes de error claros ni una sección de ayuda accesible.
+- Poca interacción en los cursos: no existen herramientas para que los usuarios reciban retroalimentación sobre su aprendizaje.
 
 <br>
 
-## Paso 2. UX Design  
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+## Paso 2. UX Design  KARARQUEO EDUCA
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
@@ -220,7 +214,7 @@ El siguiente ScopeCanvas resume la propuesta de valor de nuestro proyecto **“K
 
 ---
 
-#### 📊 Métricas para medir el éxito
+#### Métricas para medir el éxito
 - Número de inscripciones y porcentaje de cursos finalizados.
 - Cantidad de proyectos presentados.
 - Tiempo medio de permanencia en la plataforma.
@@ -255,11 +249,12 @@ A continuación, se muestra la tabla con los términos clave definidos para la n
 | Quiénes somos  | Información sobre el proyecto y equipo    | 👥              |
 | Catálogo       | Acceso a obras y productos                | 🛍️        |
 | Cursos         | Acceso a los cursos online                | 🎓      |
-| Proyectos      | Proyectos realizados por estudiantes      | 🖌️           |
+| Proyectos      | Proyectos realizados por estudiantes      | 🏺           |
 | Votaciones     | Área para valorar proyectos               | 🗳️          |
 | Blog           | Artículos y noticias relacionadas         | ✍️         |
 | Contacto       | Formulario y datos de contacto            | 📧               |
 | Login          | Acceso a la plataforma                    | 🔐                |
+| Sign up        | Registrarse y creación de cuenta          | 📝  |
 | Cuenta         | Perfil y configuración del usuario        | 👤       |
 | Carrito        | Elementos para comprar (si aplica)        | 🛒     |
 
