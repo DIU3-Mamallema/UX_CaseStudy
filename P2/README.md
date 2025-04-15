@@ -10,10 +10,11 @@
 ### TASK ANALYSIS
 * User/Task flow(inscribirse): [inscribirse curso](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/User%20Flow(Inscribirse%20curso).png)
 * User/Task flow(votar/consultar): [votar/consultar proyecto](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/169336b4a4409a87725b4ffb2926653987e3fc8f/P2/User%20Flow(valorar%20proyectos).png)
+* Task Analisis: [Task analisis PDF](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/b7959f36d3982b91d08f799eaafd81d418a28c2c/P2/TASK%20ANALISIS.pdf)
   
 ### ARQUITECTURA DE INFORMACIÓN
 * Sitemap: [Sitemap](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/27626d78046b56401825223d62710e60fca0d018/P2/Site%20map.png)
-* Labelling: [labeling]() 
+* Labelling: [labeling PDF](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/7b975fdd1a093bad104b541041f4c21f5f0ec786/P2/Labeling.pdf) 
   
 ### Prototipo Lo-FI Wireframe 
 
