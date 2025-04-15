@@ -119,8 +119,8 @@ En nuestro análisis del sitio web **Kerarqueo**, hemos identificado puntos clav
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-![image](https://github.com/user-attachments/assets/66e5b8cf-b5a0-420c-9369-e16ad73b39db)
-![image](https://github.com/user-attachments/assets/57820ce5-be55-4dac-80e0-fa7f3b958993)
+![feedback grid](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/a9e6d0cf7a3983c4b71070c2237049c9e1606591/P2/Feedback%20Grid%20DIU3.Mamallema.png)
+![Empathy map](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/a9e6d0cf7a3983c4b71070c2237049c9e1606591/P2/Empathy%20Customer%20Map%20DIU3.Mamallema.png)
 
 
 
@@ -169,7 +169,8 @@ Al terminar cada curso, el alumno podrá subir un proyecto final. Este será vot
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
-![image](https://github.com/user-attachments/assets/cbdbc656-c0bf-4e95-ab88-18be5d4d383c)
+
+![scopecanvas](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/User%20Flow(Inscribirse%20curso).png)
 
 ----
 
@@ -230,14 +231,20 @@ Este ScopeCanvas se complementa con nuestra hipótesis y propuesta de valor: cre
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+Hemos realizado dos user flow, debido a que hemos tomado la decisión de dividir en dos subtareas principales para no realizar un esquema demasiado grande en conjunto. Tendríamos la tarea de inscribirse en un curso la cual va desde que entras en la página, te decides por un curso en concreto y te inscribes, y la otra un vez terminado el curso con la posibilidad de votar los proyectos de los otros participantes y consultar proyectos de otros cursos.
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+User flow incribirse en un curso:
 
+![userflow incribirse](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/User%20Flow(Inscribirse%20curso).png)
+
+User flow valorar/consultar proyectos:
+
+![userflow valorar/consultar](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/User%20Flow(valorar%20proyectos).png)
 
 ### 2.c IA: Sitemap + Labelling 
 Para definir una navegación clara e intuitiva para los usuarios, hemos diseñado un **Sitemap** que refleja la arquitectura de la información del sitio web Kerarqueo. Este esquema permite visualizar cómo se estructuran las distintas secciones de la página y qué rutas de navegación se ofrecen al usuario.
 
-![image](https://github.com/user-attachments/assets/87a76b34-ee90-4d84-a5a3-3a5b29e506e4)
+![site map](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/6a097568640334658836afc990acc28ec232353a/P2/Site%20map.png)
 
 Además, hemos implementado tambien el **labelling**, es decir, los términos que se utilizarán en los menús y enlaces para evitar ambigüedades, relacionando conceptos de nuestra web con reales, fomentando una experiencia accesible para todo tipo de usuarios. En esta etapa también se ha tenido en cuenta el uso de iconos que acompañen a cada término para facilitar su reconocimiento visual.
 
@@ -249,6 +256,7 @@ A continuación, se muestra la tabla con los términos clave definidos para la n
 | Quiénes somos  | Información sobre el proyecto y equipo    | 👥              |
 | Catálogo       | Acceso a obras y productos                | 🛍️        |
 | Cursos         | Acceso a los cursos online                | 🎓      |
+| Curso          | Un curso seleccionado                     | 🎓      |
 | Proyectos      | Proyectos realizados por estudiantes      | 🏺           |
 | Votaciones     | Área para valorar proyectos               | 🗳️          |
 | Blog           | Artículos y noticias relacionadas         | ✍️         |
@@ -270,7 +278,7 @@ Aunque se pedían de baja fidelidad, hemos ido un paso más allá y hemos mejora
 
 Actualmente hemos desarrollado las siguientes vistas principales:
 
-- Página de proyectos, esta la hemos adaptado también para tamaño móvil y tablet
+- Página de proyectos, esta la hemos adaptado también para tamaño tablet y móvil
 - Página de exploración de cursos
 - Página de curso individual 
 - Página de votación de proyectos
@@ -289,29 +297,32 @@ Aquí presentamos nuestros bocetos:
 
 Proyectos:
 
-![image](https://github.com/user-attachments/assets/4fd0cb34-dd61-4d0b-9ca2-cf977aab5be7)
+![Wireframe Proyectos](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Desktop(Proyectos).png)
 
 Cursos(desktop):
-![image](https://github.com/user-attachments/assets/d6e6bdea-743f-41de-bb94-8dba32ba1a8d)
+![Wireframe Cursos](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Desktop(Cursos).png)
 
-Cursos(móvil y tablet):
-![image](https://github.com/user-attachments/assets/dc644741-479d-447c-8b66-1755ea3f4316)
+Cursos(tablet):
+![Wireframe tablet](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Tablet(Cursos)%20(1).png)
+
+Cursos(móvil):
+![Wireframe movil](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Movil(Cursos).png)
 
 Curso individual:
-![image](https://github.com/user-attachments/assets/df5a5197-a47a-4115-89b4-0c59fcf2c6ad)
+![Wireframe curso](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/Desktop(Curso%20individual).png)
 
 Votaciones:
 
-![image](https://github.com/user-attachments/assets/df36b632-2f16-470e-a7dc-054f815777f0)
+![Wireframe votaciones](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/VOTACIONES%20V2.png)
 
 Consulta proyecto:
-![image](https://github.com/user-attachments/assets/c0ab63fb-08ab-4818-ac4b-fe4de5b23bec)
+![Wireframe consultar proyecto](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/CONSULTA.png)
 
 Log in:
-![image](https://github.com/user-attachments/assets/0f393fd7-3bd8-421d-bbca-c9db95b11bec)
+![Wireframe log in](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/log%20in.png)
 
 Sign up:
-![image](https://github.com/user-attachments/assets/e3a5b395-918f-4766-b11e-2f59656713b2)
+![Wireframe sing up](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/24c7f195fcabcf5bb2c21567490ff66d0c19e19a/P2/sing%20up.png)
 
 <br>
 
