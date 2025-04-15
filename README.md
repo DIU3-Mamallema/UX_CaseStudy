@@ -264,6 +264,8 @@ A continuación, se muestra la tabla con los términos clave definidos para la n
 
 Para representar visualmente el diseño de las principales pantallas de la plataforma Kerarqueo, hemos realizado una serie de wireframes en Figma.
 
+Aquí están todos nuestros wireframes en figma: https://www.figma.com/design/KrRz9rHKrZ5iI9wlvfaOaI/Prueba?node-id=0-1&p=f&t=4TL9zna6dzzCJAEt-0
+
 Aunque se pedían de baja fidelidad, hemos ido un paso más allá y hemos mejorado los bocetos, estos están orientados al diseño web y siguen un enfoque **responsive**, adaptándose a diferentes dispositivos mediante el uso de **Auto Layout**, distribución en **Grid Layout** y organización jerárquica por **frames** header, body y footer. En nuestro caso todos comparten el header y el footer, ya que ha aporta coherencia y estética al sitio web.
 
 Actualmente hemos desarrollado las siguientes vistas principales:
@@ -278,7 +280,7 @@ Actualmente hemos desarrollado las siguientes vistas principales:
 Estas pantallas incluyen elementos clave como el buscador, menús de ordenación y filtros, tarjetas de proyectos o cursos, botones de interacción (como "votar" o "ver más"), y una estructura de navegación clara y coherente en todas las vistas.
 
 
-## Herramienta utilizada
+#### Herramienta utilizada
 
 Todos los wireframes se han realizado con la herramienta [Figma](https://www.figma.com), que permite diseñar interfaces de forma colaborativa y eficiente, integrando elementos visuales, diseño de interacción y pruebas para responsive design mediante plugins como **Breakpoint**.
 
@@ -305,8 +307,11 @@ Votaciones:
 Consulta proyecto:
 ![image](https://github.com/user-attachments/assets/c0ab63fb-08ab-4818-ac4b-fe4de5b23bec)
 
+Log in:
+![image](https://github.com/user-attachments/assets/0f393fd7-3bd8-421d-bbca-c9db95b11bec)
 
-
+Sign up:
+![image](https://github.com/user-attachments/assets/e3a5b395-918f-4766-b11e-2f59656713b2)
 
 <br>
 
