@@ -7,7 +7,7 @@ link figma: [https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB](ht
 
 **Grupo:** DIU3_Mamallema.  Curso: 2024/25 
 
-Actualizado: 15/04/2025
+Actualizado: 07/05/2025
 
 **Proyecto:** Kararqueo Educa 
 
@@ -16,7 +16,7 @@ Actualizado: 15/04/2025
 
 **Logotipo:** 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+[Logo de Kerarqueo Educa](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/64e8a330f93701d6e97245389008c55bb6902a9c/P3/Logo%20claro%20inverso.png)
 
 **Miembros:**
  * :bust_in_silhouette:  Marco Vega Velicia     :octocat:    https://github.com/marcovegabcb 
