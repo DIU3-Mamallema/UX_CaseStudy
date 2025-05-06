@@ -16,7 +16,7 @@ Actualizado: 07/05/2025
 
 **Logotipo:** 
 
-![Logo de Kerarqueo Educa](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/64e8a330f93701d6e97245389008c55bb6902a9c/P3/Logo%20claro%20inverso.png)
+![Logo de Kerarqueo Educa](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/08f10992b995f9e2cbe0215212121bc4fd4ed86f/P3/Logo%20peque%C3%B1o.png)
 
 **Miembros:**
  * :bust_in_silhouette:  Marco Vega Velicia     :octocat:    https://github.com/marcovegabcb 
