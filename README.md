@@ -347,19 +347,43 @@ Sign up:
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
------
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+https://www.figma.com/board/EKJHBHR5bTzjVwQP53Nicq/Moodboard25--template-?node-id=0-1&p=f&t=8t731og1PY3dTlZE-0
+
+En esta fase hemos trabajado en una guía de estilos visual para el proyecto Kerarqueo Educa, desarrollando un moodboard que recoge los principales elementos visuales que conformarán la identidad gráfica de la plataforma. Este moodboard incluye:
+
+**Logotipo** en diferentes variantes (base, circular, monocromo y adaptado a fondo oscuro).
+
+**Paleta de colores:** https://coolors.co/311e0d-712f10-675a40-422e1e-040201-b3966a-557672
+Se base en combinaciones cálidas en tonos tierra y beige (#B3966B, #311E0D...) que evocan barro cocido, cerámica y materiales naturales, tambien un tono mas azulado para transmitir calma y tranquilidad.
+
+**Tipografías:** hemos optado por Playfair Display para títulos (con estilo editorial, elegante y artesanal) y Poppins para cuerpo de texto (limpia, legible y moderna).
+
+**Iconografía** basada en FontAwesome y en diseños relacionados con lo artesanal (manos, barro, torno...).
+
+**Imágenes de referencia** reales e inspiradoras del proceso cerámico, piezas acabadas, talleres artesanos y materiales.
+
+**Comentarios** de usuario tipo, asociados a las personas ficticias diseñadas, que nos ayudan a reforzar el tono emocional y práctico de la marca.
+
+![image](https://github.com/user-attachments/assets/5580af6d-5163-4396-8e89-857deae3220a)
+
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+https://www.figma.com/design/Eske0ZgbnasuCuZx75Lypi/Untitled?node-id=0-1&p=f&t=8t731og1PY3dTlZE-0
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+En esta fase se ha diseñado la pantalla de bienvenida (landing page) del proyecto **Kerarqueo Educa**, aplicando fielmente los elementos visuales definidos previamente en el moodboard.
 
+Esta primera toma de contacto con el usuario refleja la identidad de la plataforma mediante:
+
+- Un **encabezado con logotipo y navegación simplificada**, que refuerza la marca y facilita el acceso a funciones clave como el login o el carrito.
+- Una **frase destacada inspiradora** (*"Modela tu talento. Comparte tu historia."*) con imagen asociada, que resume el objetivo emocional del proyecto.
+- **Bloques de contenido** donde se presentan las principales áreas: acceso a los cursos destacados y testimonios/reseñas de nuestros usuarios.
+- Uso de **componentes reutilizables**, iconografía coherente y contraste adecuado para mejorar accesibilidad y legibilidad.
+
+El diseño se ha realizado con enfoque **mobile-first**, asegurando una disposición clara, con jerarquía visual y márgenes adecuados. Se han aplicado técnicas de diseño responsive y organización mediante **AutoLayout** en Figma, con un grid de columnas pensado para que pueda adaptarse a otros dispositivos facilmente.
+
+![image](https://github.com/user-attachments/assets/68bb645d-a000-4f6a-a917-bfcea3ac49ff)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
