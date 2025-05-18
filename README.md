@@ -389,8 +389,21 @@ El diseño se ha realizado con enfoque **mobile-first**, asegurando una disposic
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para el diseño de la interfaz de **Kerarqueo Educa**, hemos tomado como referencia los principios de **Google Material Design**
+
+Hemos aplicado los siguientes **patrones UI:**
+
+- **Onboarding simplificado**: se ha evitado añadir pantallas introductorias extensas, pero el diseño presenta accesos claros desde la home para nuevos usuarios.
+- **Menú (Navbar)** adaptado a móvil, con iconos visibles para login, carrito y navegación superior.
+- **Cards**: se emplean tarjetas para mostrar cursos, proyectos o piezas artesanales. Estas incluyen imagen, título, valoración y llamada a la acción.
+- **Formulario de login/registro**: siguiendo el patrón clásico con campos ordenados verticalmente, botones de acción claros y texto auxiliar.
+- **Sistema de filtros desplegable** (select dropdown) para organizar contenido por nivel, precio, duración, etc.
+- **Valoración de contenido**: estrellas y comentarios de usuario como patrón social de confianza.
+
+#### Diseño responsive
+
+Se ha estructurado todo el diseño con **AutoLayout y columnas de grid adaptadas a móvil**, permitiendo reorganizar los componentes fácilmente en futuras versiones para otros dispositivos.
+
 
 
 ### 3.d Mockup
