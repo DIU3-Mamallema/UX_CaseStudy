@@ -404,6 +404,7 @@ Hemos aplicado los siguientes **patrones UI:**
 
 Se ha estructurado todo el diseño con **AutoLayout y columnas de grid adaptadas a móvil**, permitiendo reorganizar los componentes fácilmente en futuras versiones para otros dispositivos.
 
+[PDF con Imagenes Guideline](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/508c954ba410ee58f29e46756adbaf73c3908c65/P3/guide%20line.pdf)
 
 
 ### 3.d Mockup
