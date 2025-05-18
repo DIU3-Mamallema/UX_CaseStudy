@@ -386,15 +386,18 @@ El diseño se ha realizado con enfoque **mobile-first**, asegurando una disposic
 ![Método UX](img/guidelines.png) 
 ----
 
-Para el diseño de la interfaz de **Kerarqueo Educa**, hemos tomado como referencia los principios de **Google Material Design**
+Para el diseño de la interfaz de **Kerarqueo Educa**, hemos tomado como referencia los principios de **Google Material Design** adaptandolos completamente al estilo que le hemos
+querido dar a nuestra web, con la itención de hacer una interfaz simple e intuitiva. 
 
 Hemos aplicado los siguientes **patrones UI:**
 
 - **Onboarding simplificado**: se ha evitado añadir pantallas introductorias extensas, pero el diseño presenta accesos claros desde la home para nuevos usuarios.
-- **Menú (Navbar)** adaptado a móvil, con iconos visibles para login, carrito y navegación superior.
+- **Menú (Navbar)** adaptado a móvil, con iconos visibles para login, carrito y navegación superior mediante el uso de un menu de hamburguesa.
+- **Carousel**: Carosusel pada mostrar las distintas valoraciones.
+- **Search**: Icono de lupa para buscar cursos por su nombre.
 - **Cards**: se emplean tarjetas para mostrar cursos, proyectos o piezas artesanales. Estas incluyen imagen, título, valoración y llamada a la acción.
 - **Formulario de login/registro**: siguiendo el patrón clásico con campos ordenados verticalmente, botones de acción claros y texto auxiliar.
-- **Sistema de filtros desplegable** (select dropdown) para organizar contenido por nivel, precio, duración, etc.
+- **Sistema de filtros desplegable** (select dropdown) para organizar contenido por distintos filtros como nivel, precio y modalidad.
 - **Valoración de contenido**: estrellas y comentarios de usuario como patrón social de confianza.
 
 #### Diseño responsive
