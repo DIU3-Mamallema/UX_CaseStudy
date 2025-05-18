@@ -410,16 +410,22 @@ Se ha estructurado todo el diseño con **AutoLayout y columnas de grid adaptadas
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+Enlace al prototipo: https://www.figma.com/proto/Eske0ZgbnasuCuZx75Lypi/Prototipo?node-id=71-1297&p=f&t=N3Ws9wNyOPAiA9SB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=71%3A1297
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Para completar el prototipo visual de Kerarqueo Educa, hemos realizado un mockup funcional que simula la navegación por la interfaz móvil. Este prototipo incluye las pantallas más representativas de la plataforma, como la landing page, el catálogo de cursos y de proyectos, las valoraciones y el acceso al perfil de usuario. 
+
+Se ha grabado un vídeo explicativo para mostrar el recorrido del usuario a través de la aplicación y facilitar así su comprensión para las correcciones:
+https://drive.google.com/file/d/1eIRm9uYbI6A5jrbnncDKZ4qwu107F1oU/view?usp=drive_link
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Este documento resume todo el proceso de diseño llevado a cabo en el desarrollo de la plataforma **Kerarqueo Educa**, desde la investigación inicial hasta la construcción de wireframes, diseño visual y prototipo interactivo. 
+
+Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboard, landing page, guidelines y mockups. El estudio de caso refleja las decisiones de diseño tomadas y la aplicación de buenas prácticas de usabilidad.
+
 
 <br>
 
