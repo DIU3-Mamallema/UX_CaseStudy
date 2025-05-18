@@ -342,9 +342,6 @@ Sign up:
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 
@@ -357,7 +354,7 @@ En esta fase hemos trabajado en una guía de estilos visual para el proyecto Ker
 **Paleta de colores:** https://coolors.co/311e0d-712f10-675a40-422e1e-040201-b3966a-557672
 Se base en combinaciones cálidas en tonos tierra y beige (#B3966B, #311E0D...) que evocan barro cocido, cerámica y materiales naturales, tambien un tono mas azulado para transmitir calma y tranquilidad.
 
-**Tipografías:** hemos optado por Playfair Display para títulos (con estilo editorial, elegante y artesanal) y Poppins para cuerpo de texto (limpia, legible y moderna).
+**Tipografías:** hemos optado por Playfair Display para títulos (con estilo editorial, elegante y artesanal), Lora para cuerpo de texto (limpia, legible y moderna) y Poppins para los botones.
 
 **Iconografía** basada en FontAwesome y en diseños relacionados con lo artesanal (manos, barro, torno...).
 
@@ -365,7 +362,7 @@ Se base en combinaciones cálidas en tonos tierra y beige (#B3966B, #311E0D...) 
 
 **Comentarios** de usuario tipo, asociados a las personas ficticias diseñadas, que nos ayudan a reforzar el tono emocional y práctico de la marca.
 
-![image](https://github.com/user-attachments/assets/5580af6d-5163-4396-8e89-857deae3220a)
+![moodboard](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/e2be90021589063e39de69df4448f59d0b222de7/P3/Moodboard25%20(template)%20(1).png)
 
 
 
@@ -383,7 +380,7 @@ Esta primera toma de contacto con el usuario refleja la identidad de la platafor
 
 El diseño se ha realizado con enfoque **mobile-first**, asegurando una disposición clara, con jerarquía visual y márgenes adecuados. Se han aplicado técnicas de diseño responsive y organización mediante **AutoLayout** en Figma, con un grid de columnas pensado para que pueda adaptarse a otros dispositivos facilmente.
 
-![image](https://github.com/user-attachments/assets/68bb645d-a000-4f6a-a917-bfcea3ac49ff)
+![Landing page](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/d4a71e998c440c92d079849562b251e6f0fe4326/P3/iPhone%2014%20%26%2015%20Pro%20landing.png)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
