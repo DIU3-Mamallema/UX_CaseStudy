@@ -451,9 +451,10 @@ Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboa
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
+Hemos realizado unos test en maze con diferentes tipos de preguntas y pruebas para analizar la opinión de los usuarios, con la intención de pulir posibles errores o detalles a mejorar.
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
+Link test maze Proyecto A: https://t.maze.co/389447245
+Link test maze Proyecto B: https://t.maze.co/392987151
 
 
 ### 4.c Cuestionario SUS
