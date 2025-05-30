@@ -442,8 +442,8 @@ Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboa
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | B 
+| Iñigo    | H  /   18     | Estudiante  | Media       | Timido       | Web.       | A 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
@@ -454,6 +454,7 @@ Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboa
 Hemos realizado unos test en maze con diferentes tipos de preguntas y pruebas para analizar la opinión de los usuarios, con la intención de pulir posibles errores o detalles a mejorar.
 
 Link test maze Proyecto A: https://t.maze.co/389447245
+
 Link test maze Proyecto B: https://t.maze.co/392987151
 
 
