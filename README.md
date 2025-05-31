@@ -435,7 +435,7 @@ Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboa
 ![Método UX](img/usability-testing.png)
 -----
 
-*Caso B:
+* Caso B:
 
 https://github.com/DIU3-LobosHuargos/UX_CaseStudy
 
@@ -444,7 +444,7 @@ donde puedan subir las obras que realicen a partir de esos cursos y también pue
 comentarios a obras realizadas por otros usuarios, creando una comunidad rica tanto a nivel cultural como social.
 
 
-*Personas que han participado en el estudio:
+* Personas que han participado en el estudio:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -459,11 +459,11 @@ comentarios a obras realizadas por otros usuarios, creando una comunidad rica ta
 -----
 Hemos realizado unos test en maze con diferentes tipos de preguntas y pruebas para analizar la opinión de los usuarios, con la intención de pulir posibles errores o detalles a mejorar.
 
-*Caso A:
+* Caso A:
 
  Link test maze Proyecto A: https://t.maze.co/389447245
 
-*Caso B:
+* Caso B:
 
  Link test maze Proyecto B: https://t.maze.co/392987151
 
@@ -476,10 +476,10 @@ esto también es debido a que ambas páginas se centran principalmente el los cu
 Nosotros hemos optado por usar SUS Calculator: https://stuart-cunningham.github.io/sus/
 Debido a que he tenido problemas con los excel que se han proporcionado.
 
-*Iñigo B:
+* Iñigo B:
   ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/I%C3%B1igo%20B%20SUS.png)
 
-*Adela A:
+* Adela A:
   ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/Adela%20A%20SUS.png)
 
 
@@ -488,14 +488,14 @@ Debido a que he tenido problemas con los excel que se han proporcionado.
 ![Método UX](img/ABtesting.png) 
 -----
 
-*Adela A:
+* Adela A:
   Este usuario dedico bastante tiempo de la primera prueba a moverse por la web con intención de visitarla para conocerla mejor, después uso el menu para cumplir
   la tarea que consistía en apuntarse a un curso, para esto no tuvo dificultad pero tampoco lo pudo conseguir en un tiempo especialmente bajo.
   Para la segunda tarea que consistia en la valoración del proyecto de uno de nuestros alumnos también opto por utilizar le menu y esta vez invirtio menos tiempo,
   debido a la previa investigación de la web. Durante la navegación por la web intento dar click a objetos que no eran clickables debido a falta de contenido. 
   Destaca sobre todo de forma positiva la estetica por encima de la facilidad navegación.
 
-*Iñigo B:
+* Iñigo B:
   Este usuario al ser de otra generación opto más por le scroll que por es uso de menus, consiguio apuntarse al curso con facilidad, para la segunda prueba que es
   desuscribirse de un curso si optó por el menu ya que el simbolo puede ser no tan evidente en un principio, pero pudo cumplir la tarea rápidamente. Este usuario 
   destaco la facilidad para encontrar sus objetivos en la pagina web de forma muy positiva, y critico más el aspecto estético de la misma.
@@ -659,7 +659,7 @@ bastante más llamativa y destacable a nivel visual.
 
 * Estética más recordable y llamativa(marketing)
 * No obligar a un inicio de sesión de forma directa para que los usuarios puedan ver la página antes de incribirse
-* 
+
 #### Valoración de la prueba de usabilidad (self-assesment)
 
 Las técnicas empleadas han sido muy útiles para detectar errores de usabilidad que no habríamos identificado solo desde el diseño. Aunque algunos problemas eran previsibles, otros resultaron inesperados, y estas pruebas permitieron confirmarlos o descubrirlos de forma clara y estructurada. Como creadores, fue especialmente revelador observar cómo los usuarios interpretan libremente 
