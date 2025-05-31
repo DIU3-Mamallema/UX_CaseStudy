@@ -11,7 +11,8 @@
 - Usability Report del Caso B, con toda la información recabada del caso B
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+- Conclusiones: Ha sido muy interesante el analizar las practicas anteriores, para ver como los compañeros planteando una idea similar, la han
+implementado de forma tan distinta, hubiese estado bien aplicar todas la mejoras y nuevas ideas que nos han surgido al realizar este último analisis.
+También ha estado bien darse cuenta como cada usuario interpretaba de forma muy distinta la información y como procesamos de forma tan distinta lo mismo
+tanto del proyecto B como del A que es en el que hemos estado trabajo durante el desarrollo de esta asignatura.
