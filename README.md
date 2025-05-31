@@ -435,15 +435,21 @@ Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboa
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+*Caso B:
+
+https://github.com/DIU3-LobosHuargos/UX_CaseStudy
+
+Proyecto "Lobos Huargos" es un model de cursos de cerámica que apuesta por la realización de cursos por parte de los usuarios, 
+donde puedan subir las obras que realicen a partir de esos cursos y también puedan participar dando valoraciones y 
+comentarios a obras realizadas por otros usuarios, creando una comunidad rica tanto a nivel cultural como social.
 
 
+*Personas que han participado en el estudio:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | B 
-| Iñigo    | H  /   18     | Estudiante  | Media       | Timido       | Web.       | A 
+| Iñigo    | H  /   18     | Estudiante  | Alta        |  Emocional   | Web.       | A 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
@@ -453,10 +459,16 @@ Se ha subido toda la documentación al repositorio de GitHub, incluyendo moodboa
 -----
 Hemos realizado unos test en maze con diferentes tipos de preguntas y pruebas para analizar la opinión de los usuarios, con la intención de pulir posibles errores o detalles a mejorar.
 
-Link test maze Proyecto A: https://t.maze.co/389447245
+*Caso A:
 
-Link test maze Proyecto B: https://t.maze.co/392987151
+ Link test maze Proyecto A: https://t.maze.co/389447245
 
+*Caso B:
+
+ Link test maze Proyecto B: https://t.maze.co/392987151
+
+Para ambos casos hemos decidido hacer las mismas pruebas o muy similares con la intención de valorar en ambas aplicaciónes las mismas características a la hora de hacer comparativas,
+esto también es debido a que ambas páginas se centran principalmente el los cursos por lo que las prubas van realacionadas a la suscribción de los mismos y el manejo por la web.
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
@@ -478,13 +490,23 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para esta prueba hemos usado gaze recorder como se recomendaba en el guión de practicas. Este web mediante un mapa de calor nos permite analizar en que se ha estado
+fijando el usuario. Hemos decido poner a varios usuarios a ver la landing page, con la intención de analizar la efectividad de la misma y que llama más la atención de
+los usuarios, siendo esta página la más importante a la hora de atraer el ineres de estos. Con la intención de mejorarla para que sea lo más atractiva posible y atraiga
+la mirada de los usuarios a puntos clave.
 
+Enlace al experimento realizado en gaze recorder: https://app.gazerecorder.com/Study/#
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+* Adela:
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+  [imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/Adela%20B.png)
+
+* Iñigo:
+
+  [imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/I%C3%B1igo%20B.png)
+
+Se puede comprobar como los usuarios han pestado atención a las partes más importantes de la landing page. Lo único que no parece destacar lo suficiente es el logo,
+el cual a pasado algo desapercibido y podría ser interesante que fuese algo más representativo.
 
 
 ### 4.f Usability Report de B
