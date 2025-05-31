@@ -448,8 +448,8 @@ comentarios a obras realizadas por otros usuarios, creando una comunidad rica ta
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | B 
-| Iñigo    | H  /   18     | Estudiante  | Alta        |  Emocional   | Web.       | A 
+| Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | A 
+| Iñigo    | H  /   18     | Estudiante  | Alta        |  Emocional   | Web.       | B 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
@@ -473,18 +473,37 @@ esto también es debido a que ambas páginas se centran principalmente el los cu
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+Nosotros hemos optado por usar SUS Calculator: https://stuart-cunningham.github.io/sus/
+Debido a que he tenido problemas con los excel que se han proporcionado.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+*Iñigo B:
+  ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/I%C3%B1igo%20B%20SUS.png)
+
+*Adela A:
+  ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/Adela%20A%20SUS.png)
+
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+*Adela A:
+  Este usuario dedico bastante tiempo de la primera prueba a moverse por la web con intención de visitarla para conocerla mejor, después uso el menu para cumplir
+  la tarea que consistía en apuntarse a un curso, para esto no tuvo dificultad pero tampoco lo pudo conseguir en un tiempo especialmente bajo.
+  Para la segunda tarea que consistia en la valoración del proyecto de uno de nuestros alumnos también opto por utilizar le menu y esta vez invirtio menos tiempo,
+  debido a la previa investigación de la web. Durante la navegación por la web intento dar click a objetos que no eran clickables debido a falta de contenido. 
+  Destaca sobre todo de forma positiva la estetica por encima de la facilidad navegación.
+
+*Iñigo B:
+  Este usuario al ser de otra generación opto más por le scroll que por es uso de menus, consiguio apuntarse al curso con facilidad, para la segunda prueba que es
+  desuscribirse de un curso si optó por el menu ya que el simbolo puede ser no tan evidente en un principio, pero pudo cumplir la tarea rápidamente. Este usuario 
+  destaco la facilidad para encontrar sus objetivos en la pagina web de forma muy positiva, y critico más el aspecto estético de la misma.
+
+  Para estos dos usuarios les puse a hacer las pruebas primero en la web que les correspondía y después en la otra con la intención de que ellos pudiese dar consclusiones
+  de sus comparativas y compara como se desplazaba un mismo usuario en las dos webs. En promedio en el caso A los usuarios han tardado 3.5 veces más en encontrar sus objetivos,
+  por lo que podemos asumir que la navegación es algo más compleja y lenta, y ambos destacarón su preferencia por la estética visual de A sobre B.
+  
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
@@ -499,11 +518,11 @@ Enlace al experimento realizado en gaze recorder: https://app.gazerecorder.com/S
 
 * Adela:
 
-  [imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/Adela%20B.png)
+  ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/Adela%20B.png)
 
 * Iñigo:
 
-  [imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/I%C3%B1igo%20B.png)
+  ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/I%C3%B1igo%20B.png)
 
 Se puede comprobar como los usuarios han pestado atención a las partes más importantes de la landing page. Lo único que no parece destacar lo suficiente es el logo,
 el cual a pasado algo desapercibido y podría ser interesante que fuese algo más representativo.
@@ -513,10 +532,138 @@ el cual a pasado algo desapercibido y podría ser interesante que fuese algo má
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+*Grupos AB/Testing: https://github.com/mgea/UX_CaseStudy/blob/master/GuionesPracticas/P4_Grupos_ABTesting.md
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+# Usability Report
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+
+#### Evaluación de usabilidad del proyecto 
+
+### (NOMBRE PROYECTO )
+
+### (Fecha)
+
+
+
+
+
+[img Proyecto]
+
+[Enlace a GITHUB del proyecto]
+
+
+
+
+
+### Realizado por:
+
+[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+
+
+
+
+
+
+
+
+
+
+
+## 1 DESCRIPCIÓN DEL WEBSITE
+
+[Incluir un breve resumen el propósito de la App]
+
+ 
+
+
+
+## 2 RESUMEN EJECUTIVO
+
+
+
+[ Breve descripción de lo que contiene el documento 
+
+y Resumen conciso de problemas detectados ]
+
+
+
+
+
+
+
+
+
+## 3 METODOLOGIA 
+
+#### Metodología de usabililidad
+
+[Metodología, sesiones,  técnicas aplicadas... ]
+
+ 
+
+#### Test de usuarios: Participantes
+
+[tabla, ejemplo, descripción demográfica de los participantes]
+
+
+
+
+
+#### Resultados obtenidos
+
+
+
+(resultado de SUS)
+
+
+
+(resultado de eyetracking)
+
+
+
+
+
+
+
+
+
+## 4 CONCLUSIONES 
+
+
+
+(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+
+
+
+#### Incidencias
+
+* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+
+
+
+#### Valoración 
+
+* (Puntos Positivos a destacar)
+
+
+
+#### Recomendaciones y propuesta de mejoras: 
+
+* (Puntos de mejora)
+
+
+
+
+
+
+
+#### Valoración de la prueba de usabilidad (self-assesment)
+
+(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+
 
 
 
