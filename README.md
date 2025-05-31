@@ -7,7 +7,7 @@ link figma: [https://www.figma.com/team_invite/redeem/TilpHqTN7HzYfnikQtRxTB](ht
 
 **Grupo:** DIU3_Mamallema.  Curso: 2024/25 
 
-Actualizado: 07/05/2025
+Actualizado: 31/05/2025
 
 **Proyecto:** Kararqueo Educa 
 
@@ -532,7 +532,7 @@ el cual a pasado algo desapercibido y podría ser interesante que fuese algo má
 ![Método UX](img/usability-report.png) 
 -----
 
-*Grupos AB/Testing: https://github.com/mgea/UX_CaseStudy/blob/master/GuionesPracticas/P4_Grupos_ABTesting.md
+* Grupos AB/Testing: https://github.com/mgea/UX_CaseStudy/blob/master/GuionesPracticas/P4_Grupos_ABTesting.md
 
 # Usability Report
 
@@ -542,17 +542,17 @@ el cual a pasado algo desapercibido y podría ser interesante que fuese algo má
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Lobos Huargos
 
-### (Fecha)
-
-
+### 31/05/2025
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+![img Proyecto](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/3161fa12e397f05794fad092f4861de2d638d805/P4/landing-page.png)
+
+[Enlace a GITHUB del proyecto](https://github.com/DIU3-LobosHuargos/UX_CaseStudy)
 
 
 
@@ -560,112 +560,110 @@ el cual a pasado algo desapercibido y podría ser interesante que fuese algo má
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
-
-
-
+Realizado por Marcos Gómez Morena y Marco Vega Velicia no tenemos experiencia anterior a esta asignatura en el desarrollo de UX/UI.
+Pero tenemos experiencia en el uso de páginas web y app móvil. En esta review aplicamos todo lo aprendido en esta asignatura sobre
+test de usabilidad con la intención de mejorar la app web evaluada.
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
-
- 
-
-
+El proyecto de Lobos Huargos es un modelos que apuesta por la realización de cursos por parte de los usuarios, donde puedan subir las obras que realicen a partir de esos cursos 
+y también puedan participar dando valoraciones y comentarios a obras realizadas por otros usuarios, creando una comunidad rica tanto a nivel cultural como social.
 
 ## 2 RESUMEN EJECUTIVO
-
 
 
 [ Breve descripción de lo que contiene el documento 
 
 y Resumen conciso de problemas detectados ]
 
+Este documento contiene los resultados de las pruebas de usabilidad realizadas sobre el proyecto de Lobos Huargos. La finalidad de estas pruebas es la de detectar
+posibles problemas o mejorar relacionados con la navegación, la comprensión, la accesibilidad y estética.
 
+Problemas detectados:
 
+   * Algunos problemas técnicos con algunos scroll en la landing page.
 
-
-
-
+   * Estética neutra y poco distintiva (sobretodo el logo)
 
 
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Se llevó a cabo un análisis previo para garantizar un desarrollo coherente de las pruebas. Se realizaron pruebas manuales centradas en A/B Testing utilizando la plataforma Maze, 
+pruebas con eye tracking para analizar si los usuarios se enfocaban en los puntos clave de la interfaz, y una encuesta SUS al final para obtener una valoración general de la experiencia.
 
- 
+Las pruebas realizadas fueron:
+
+   * Test moderado con tareas específicas en Maze
+
+   * Grabación de pantalla con eye tracking (GazeRecorder)
+
+   * Encuesta SUS (System Usability Scale)
+
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | A 
+| Iñigo    | H  /   18     | Estudiante  | Alta        |  Emocional   | Web.       | B 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
-
-
-
+Se ha intentado utilizar participantes con distintas edades, personalidades y experiencias tecnológicas, para que el estudio represente al mayor publico objetivo posible.
 
 #### Resultados obtenidos
-
-
-
 (resultado de SUS)
 
+*Iñigo B:
+  ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/I%C3%B1igo%20B%20SUS.png)
 
+*Adela A:
+  ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/Adela%20A%20SUS.png)
 
 (resultado de eyetracking)
 
+* Adela:
 
+  ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/Adela%20B.png)
 
+* Iñigo:
 
+  ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/I%C3%B1igo%20B.png)
 
-
-
-
+Se puede comprobar como los usuarios han pestado atención a las partes más importantes de la landing page. Lo único que no parece destacar lo suficiente es el logo,
+el cual a pasado algo desapercibido y podría ser interesante que fuese algo más representativo.
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+El modelo prototipo tiene una estructura bien adaptada a movil, que hace que la navegación sea rápida y realmente comoda para los usuarios con cualquier tipo
+de experiencia tecnológica. La iconografía y estética general cumplen con su funcionalidad de forma clara y transmite lo que se pretende. Visualmente podría
+ser más llamativo con la intención de que como marca sea más recordable y representativo para ello me centraría sobre todo el la mejora del logo el cual pasa 
+demasiado desapercibido para ser lo que representa a la web y cambiaría ligeramente la landing page de movil para que se pareciese más  a la de web la cual es 
+bastante más llamativa y destacable a nivel visual.
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+* Los scroll horizontales de los cursos populares y filtros no funcionaban correctamente(no demasiado relevante para la navegación y usabilidad)
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
-
+* Navegavilidad rápida y comoda
+* Fácil de entender y usar sin necesidad de experiencia previa
+* Estructura clara y comoda muy bien adaptada a movil
+* Funciones de usabilidad bien entrelazadas
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
-
-
+* Estética más recordable y llamativa(marketing)
+* No obligar a un inicio de sesión de forma directa para que los usuarios puedan ver la página antes de incribirse
+* 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
-
-
-
+Las técnicas empleadas han sido muy útiles para detectar errores de usabilidad que no habríamos identificado solo desde el diseño. Aunque algunos problemas eran previsibles, otros resultaron inesperados, y estas pruebas permitieron confirmarlos o descubrirlos de forma clara y estructurada. Como creadores, fue especialmente revelador observar cómo los usuarios interpretan libremente 
+la información, muchas veces de forma muy distinta a la que imaginábamos como desarrolladores.
 
 <br>
 
