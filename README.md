@@ -450,8 +450,8 @@ comentarios a obras realizadas por otros usuarios, creando una comunidad rica ta
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | A 
 | Iñigo    | H  /   18     | Estudiante  | Alta        |  Emocional   | Web.       | B 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Laura  | M / 47   | Docente     | Media        | Emocional    | móvil      | A 
+| Raúl | H / 24   | Diseñador  | Alta       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
@@ -482,6 +482,13 @@ Debido a que he tenido problemas con los excel que se han proporcionado.
 * Adela A:
   ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/Adela%20A%20SUS.png)
 
+  * Laura A.
+  ![image](https://github.com/user-attachments/assets/c9a4c1c7-579d-4263-9c13-4a2e0de025b7)
+
+  * Raúl B:
+    ![image](https://github.com/user-attachments/assets/6e1f3be4-c9b4-47e5-a498-e4d6cb4931d7)
+
+
 
 
 ### 4.d A/B Testing
@@ -503,6 +510,20 @@ Debido a que he tenido problemas con los excel que se han proporcionado.
   Para estos dos usuarios les puse a hacer las pruebas primero en la web que les correspondía y después en la otra con la intención de que ellos pudiese dar consclusiones
   de sus comparativas y compara como se desplazaba un mismo usuario en las dos webs. En promedio en el caso A los usuarios han tardado 3.5 veces más en encontrar sus objetivos,
   por lo que podemos asumir que la navegación es algo más compleja y lenta, y ambos destacarón su preferencia por la estética visual de A sobre B.
+
+
+* Laura A:
+Laura mostró un enfoque muy metódico al realizar las pruebas. Utilizó principalmente el menú para orientarse desde el principio, lo que le permitió completar la tarea de inscribirse a un curso de forma eficiente, aunque algo más lenta que otros usuarios debido a que se detuvo a leer bastante el contenido disponible. En la tarea de valorar un proyecto también utilizó el menú y realizó comentarios positivos sobre la estructura de los contenidos. Su principal crítica fue que, desde móvil, ciertos elementos no estaban del todo optimizados (botones algo pequeños o poco accesibles). No tuvo problemas técnicos ni de comprensión. Valoró de forma notable la identidad visual y paleta de colores de la propuesta A.
+
+* Raúl B:
+Raúl, al ser diseñador y tener experiencia en plataformas similares, resolvió ambas tareas de forma muy rápida y sin necesidad de recurrir a menús, confiando principalmente en los elementos visuales de la interfaz. En la prueba de inscripción a un curso usó directamente los botones visibles en la landing, y para valorar el proyecto se desplazó por la sección de proyectos hasta encontrar el que le interesaba. Comentó que aunque funcionalmente la interfaz era clara, visualmente le parecía menos atractiva que otras opciones (como A). Echó en falta más dinamismo visual y elementos diferenciadores en cuanto a branding.
+
+En ambos casos, los usuarios pudieron completar las tareas con éxito. Laura, en el caso A, tardó más debido a una navegación más pausada y reflexiva, mientras que Raúl, en el caso B, completó las tareas de forma ágil gracias a su experiencia previa. Sin embargo, ambos coincidieron en que la estética del caso A era más pulida y atractiva, mientras que el caso B se percibía más claro a nivel funcional, aunque algo genérico en su aspecto. Ambos valoraron positivamente la organización general de las plataformas que utilizaron.
+
+
+
+
+
   
 
 ### 4.e Aplicación del método Eye Tracking 
@@ -520,9 +541,11 @@ Enlace al experimento realizado en gaze recorder: https://app.gazerecorder.com/S
 
   ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/Adela%20B.png)
 
-* Iñigo:
+* Raúl:
 
   ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/I%C3%B1igo%20B.png)
+
+  
 
 Se puede comprobar como los usuarios han pestado atención a las partes más importantes de la landing page. Lo único que no parece destacar lo suficiente es el logo,
 el cual a pasado algo desapercibido y podría ser interesante que fuese algo más representativo.
@@ -609,8 +632,8 @@ Las pruebas realizadas fueron:
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Adela    | M  /   52     | Sanitaria   | Media       |  Racional    | Web.       | A 
 | Iñigo    | H  /   18     | Estudiante  | Alta        |  Emocional   | Web.       | B 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Laura  | M / 47   | Docente     | Media        | Emocional    | móvil      | A 
+| Raúl | H / 24   | Diseñador  | Alta       | Racional     | Web        | B 
 
 Se ha intentado utilizar participantes con distintas edades, personalidades y experiencias tecnológicas, para que el estudio represente al mayor publico objetivo posible.
 
@@ -623,13 +646,20 @@ Se ha intentado utilizar participantes con distintas edades, personalidades y ex
 *Adela A:
   ![Imagen resultado SUS](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/359e6fadb844630b184e2deb5081c1bc5db66e76/P4/Adela%20A%20SUS.png)
 
+   * Laura A.
+  ![image](https://github.com/user-attachments/assets/c9a4c1c7-579d-4263-9c13-4a2e0de025b7)
+
+  * Raúl B:
+    ![image](https://github.com/user-attachments/assets/6e1f3be4-c9b4-47e5-a498-e4d6cb4931d7)
+
+
 (resultado de eyetracking)
 
 * Adela:
 
   ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/Adela%20B.png)
 
-* Iñigo:
+* Raúl:
 
   ![imagen landing mapa calor](https://github.com/DIU3-Mamallema/UX_CaseStudy/blob/bf2d821651cdaa37396d0dbc1086620edca1bde2/P4/I%C3%B1igo%20B.png)
 
